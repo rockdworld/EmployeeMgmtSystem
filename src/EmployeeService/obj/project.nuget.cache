@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "NjvraYfnvky+DJ0RrCxRLpNxVQu6W1e0VMbhn6bDCYcb6iLsoByb2cI8M9eHYYlEfPqyrotMOrMxl5Ow0k3ixg==",
+  "dgSpecHash": "CLxJlPu7GcUW9e9VhIqHrxsUIzEV7hAS/mEYic8exOajPMn8LztziH2jUXfAqPIjeOiE4m7XH2HuTjlhnLaNhg==",
   "success": true,
   "projectFilePath": "D:\\Manish\\Croma\\Projects\\EmployeeManagementAPI\\src\\EmployeeService\\EmployeeService.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
   "logs": []
 }
